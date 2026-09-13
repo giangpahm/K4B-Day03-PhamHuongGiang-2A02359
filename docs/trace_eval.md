@@ -1,7 +1,7 @@
 # 📊 BÁO CÁO THU HOẠCH NGHIỆM THU BÀI LAB 3 (BƯỚC 3 — SUBMISSION ARTIFACT)
 
 > **Họ và Tên Học viên:** Phạm Hương Giang  
-> **Mã Sinh Viên / Mã Học viên:** 2A02359  
+> **Mã Sinh Viên / Mã Học viên:** 2A202602359  
 > **Chủ đề Lựa chọn:** Trợ lý Tác tử Học vụ Thông minh Đại học VinUni (VinUni Academic ReAct Agent)  
 
 ---
