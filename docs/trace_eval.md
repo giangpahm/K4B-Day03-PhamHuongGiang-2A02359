@@ -58,6 +58,8 @@ Dán 1 đoạn trích xuất log tiêu biểu từ file `docs/trace_waterfall.js
   }
 ]
 
+```
+
 ## 3. TỔNG KẾT KẾT QUẢ NGHIỆM THU & NỘP BÀI
 
 - [x] Đã điền API Key thật trong `.env` và xác nhận Agent chạy mượt mà trên LLM API thật (Gemini).
